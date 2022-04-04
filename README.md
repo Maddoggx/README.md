@@ -5,4 +5,15 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Amera Alleyne](https://github.com/Maddoggx)for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+This repository contains all of the notes taken by [Amera Alleyne](https://github.com/Maddoggx) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
+
+## Table of Contents
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+    <ol>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+    </ol>
